@@ -1,5 +1,6 @@
 let db;
 
+
 const request = indexedDB.open('budget', 1);
 
 request.onupgradeneeded = function (event) {
@@ -48,3 +49,6 @@ function deletePending() {
 };
 
 window.addEventListener('online', checkDatabase);
+
+
+
