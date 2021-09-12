@@ -1,5 +1,7 @@
 # BudgetTracker-Offline-Online
 ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+
+
 This is an application to keep track of your finances online or offline. You are able to add a deposit or a withdraw and then a graph will be generated. This app is intended to help you keep track you spending online and offline. 
 ## Table of Contents:
 * [Installation](#installation)
@@ -17,6 +19,8 @@ In order to use this application you need to navigate to the link provided below
 
 [budgettracken](https://budgettracken.herokuapp.com/)
 
+
+<img width="1773" alt="Screen Shot 2021-09-12 at 2 24 25 PM" src="https://user-images.githubusercontent.com/80728975/133001785-8514e600-defb-41e8-8425-1cd9f26d01b5.png">
 
 ### Contributing
 Contributors: Landon Waddell
